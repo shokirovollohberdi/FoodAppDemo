@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="menu">Menyu</string>
+    <string name="add_food">Taom qoshish</string>
+    <string name="listFood">Barcha taomlar</string>
+    <string name="save">Saqlash</string>
+    <string name="kerakli_mahsulotlar">Kerakli Mahsulotlar</string>
+</resources>
